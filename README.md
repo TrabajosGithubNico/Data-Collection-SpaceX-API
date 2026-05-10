@@ -9,13 +9,13 @@ Filtered out launches with multiple cores or multiple payloads to maintain a con
 
 Extracted key identifiers from each launch record, including:
 
-Rocket ID
+- Rocket ID
 
-Payload ID
+- Payload ID
 
-Launchpad ID
+- Launchpad ID
 
-Core ID
+- Core ID
 
 Performed additional API calls to retrieve detailed metadata:
 
