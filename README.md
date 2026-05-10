@@ -19,13 +19,13 @@ Extracted key identifiers from each launch record, including:
 
 Performed additional API calls to retrieve detailed metadata:
 
-Rocket information (booster version, configuration)
+- Rocket information (booster version, configuration)
 
-Payload details (mass, orbit, customer)
+- Payload details (mass, orbit, customer)
 
-Launch site information (site name, coordinates)
+- Launch site information (site name, coordinates)
 
-Core attributes (block, reuse count, landing type, landing success, gridfins, legs)
+- Core attributes (block, reuse count, landing type, landing success, gridfins, legs)
 
 Cleaned and merged all enriched fields into a unified dataset.
 
