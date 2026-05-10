@@ -31,5 +31,6 @@ Cleaned and merged all enriched fields into a unified dataset.
 
 Restricted the dataset to Falcon 9 launches to support landing‑success prediction.
 
-Output
+Output:
+
 A clean, enriched dataset containing detailed Falcon 9 launch records collected directly from the SpaceX REST API. This dataset serves as the primary structured source for analysis and is later combined with the web‑scraped dataset to validate and enhance data completeness.
